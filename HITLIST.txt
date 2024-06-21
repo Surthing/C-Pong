@@ -1,0 +1,13 @@
+SPRITES >>>> (done)
+
+KOLLISION >>>>> (done)
+
+EINGABE INTERAKTIV >>>>> (done)
+
+CANVAS >>>>> (done)
+
+WAV SOUND  >>>>> (done
+
+INTRO AND ENDING SCREEN)
+
+
